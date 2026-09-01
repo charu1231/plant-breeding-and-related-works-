@@ -205,8 +205,8 @@ analyses are `analysis/04_robustness_structured.py` and
 
 ### 3.1 Real-data structure (Phase 1)
 
-The two-way (line × environment) analysis of the wheat panel gave a broad-sense
-heritability on entry means of H² ≈ 0.48. The four environments showed markedly
+The two-way (line × environment) analysis of the wheat panel (Comstock & Moll
+1963) gave a broad-sense heritability on entry means of H² ≈ 0.48. The four environments showed markedly
 heterogeneous genetic relationships: E1 was phenotypically uncorrelated or
 negatively correlated with the others (r = −0.19 to −0.02), whereas E2, E4 and
 E5 were moderately to strongly correlated (r = 0.39–0.66). Single-environment
