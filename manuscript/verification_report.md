@@ -125,4 +125,5 @@ estimator is unbiased on the fixed simulator (Section 4).
   `output/04_structured_summary.csv`, `output/05_unbalanced_summary.csv`;
   figures in `output/figures/`.
 - Runtime: full benchmark ≈ 8 min (main) + ≈ 7 min (structured) + ≈ 4 min
-  (unbalanced).
+  (unbalanced) + ≈ 1.5 min (factor-analytic). One-command reproduction:
+  `bash run_all.sh`.

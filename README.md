@@ -18,7 +18,11 @@ python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 ```
 
-## Pipeline
+## Pipeline (one command)
+```bash
+bash run_all.sh          # setup + full pipeline + figures + manuscript + verification
+```
+Or step-by-step:
 ```bash
 .venv/bin/python analysis/01_real_data_baseline.py      # G×E structure + GBLUP CV
 .venv/bin/python analysis/02_simulation_study.py        # rG × h² benchmark (15 reps)
@@ -57,6 +61,7 @@ exactly where cross-environment borrowing is hardest.
 - `manuscript/journal_formatting_guide.md` — journal-specific submission guide.
 - `manuscript/references_author_date.md` — author–date reference list (Plant Genome / Frontiers).
 - `manuscript/manuscript.docx` — editable Word version of the manuscript.
+- `manuscript/PLAIN_SUMMARY.md` — one-page plain-language summary.
 - `output/figures_pub/` — publication-quality figures (300 DPI).
 - `CITATION.cff`, `LICENSE`, `data/README.md` — citation metadata, MIT license,
   and data dictionary.
