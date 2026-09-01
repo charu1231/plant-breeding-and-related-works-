@@ -1,0 +1,4 @@
+# Keep the manuscript and download bundles OUT of the public repo
+paper/
+*.zip
+__pycache__/

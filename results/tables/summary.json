@@ -1,0 +1,54 @@
+{
+  "pct_SS_gxe": 11.38,
+  "pct_SS_env": 60.58,
+  "pct_SS_gen": 12.19,
+  "anova_F": {
+    "Environment (E)": 168.34,
+    "Genotype (G | E)": 4.42,
+    "Rep within E": 2.02,
+    "GxE (G:E | E+G)": 1.72
+  },
+  "anova_p": {
+    "Environment (E)": 0.0,
+    "Genotype (G | E)": 1.7430501486614958e-14,
+    "Rep within E": 0.02295724988744019,
+    "GxE (G:E | E+G)": 0.0002700664484674986
+  },
+  "vc_method": "method-of-moments fallback (LinAlgError), complete 11 x 7 subset",
+  "variance_components_kgha2": {
+    "gen": 42787.368095684,
+    "env": NaN,
+    "gxe": 22152.468978973142,
+    "rep_in_env": NaN,
+    "residual": 178327.4
+  },
+  "H2_entry_mean_mixedmodel": 0.617,
+  "n_genotypes_FW": 21,
+  "grand_mean_kgha": 1047.2,
+  "AMMI_IPCA_var_explained_pct": [
+    56.3,
+    23.9,
+    14.0
+  ],
+  "mantel_r_phendist_climdist": 0.058,
+  "mantel_p": 0.393,
+  "warming_1991_2024_C_per_decade": {
+    "Assosa": -0.004,
+    "Bako": 0.115
+  },
+  "driest_environment": "Assosa 2018",
+  "resilient_donors": [
+    "203347",
+    "203364",
+    "203263"
+  ],
+  "env_winners": {
+    "Assosa 2018": "203347",
+    "Assosa 2019": "203347",
+    "Assosa 2020": "203496",
+    "Assosa 2021": "203439",
+    "Bako 2018": "208440",
+    "Bako 2020": "Bako-09",
+    "Bako 2021": "203439"
+  }
+}
