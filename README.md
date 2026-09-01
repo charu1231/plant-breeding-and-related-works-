@@ -55,6 +55,10 @@ exactly where cross-environment borrowing is hardest.
   (reproducibility proof for reviewers).
 - `manuscript/cover_letter.md` — submission cover-letter template.
 - `manuscript/journal_formatting_guide.md` — journal-specific submission guide.
+- `manuscript/references_author_date.md` — author–date reference list (Plant Genome / Frontiers).
+- `manuscript/manuscript.docx` — editable Word version of the manuscript.
 - `output/figures_pub/` — publication-quality figures (300 DPI).
+- `CITATION.cff`, `LICENSE`, `data/README.md` — citation metadata, MIT license,
+  and data dictionary.
 
 See `PROJECT_PLAN.md` for the full plan and candidate journals.

@@ -20,10 +20,11 @@ scope best, and our structured abstract already matches its format.
 
 ## 2. What to fill in (author-side placeholders)
 
-In `manuscript/manuscript.md`:
+In `manuscript/manuscript.md` (or the editable `manuscript/manuscript.docx`):
 - Title-page block: author names, affiliations, ORCID, corresponding-author email.
 - `## 6. Declarations`: funding statement, author contributions, conflicts.
 - Date in `manuscript/cover_letter.md`; suggested reviewers (replace examples).
+- `CITATION.cff`: replace the author placeholder with the real author names.
 
 ## 3. Figures
 
