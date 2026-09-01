@@ -1,0 +1,3 @@
+rg,miss,taskA_naive_mean,taskA_naive_se,taskA_mt_mean,taskA_mt_se,taskB_single_mean,taskB_single_se,taskB_mt_mean,taskB_mt_se
+0.3,0.3,0.2376,0.008,0.3101,0.0122,0.5749,0.0068,0.5735,0.0064
+0.7,0.3,0.5148,0.0086,0.6294,0.007,0.5753,0.007,0.6275,0.0063

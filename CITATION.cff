@@ -1,0 +1,29 @@
+# CITATION.cff — replace the author placeholders with the real author names
+cff-version: 1.2.0
+message: "If you use this work (code, data analyses, or manuscript), please cite it as follows."
+title: >-
+  Multi-environment genomic prediction under genotype × environment
+  interaction: a simulation study validated in CIMMYT wheat
+authors:
+  - name: "charu1231"   # TODO: replace with real given-names / family-names
+type: software
+version: 1.0.0
+date-released: "2026-09-01"
+keywords:
+  - genomic selection
+  - GBLUP
+  - genotype by environment interaction
+  - multi-trait model
+  - reaction norm
+  - factor-analytic
+  - wheat
+  - simulation
+license: MIT
+repository-code: "https://github.com/charu1231/plant-breeding-and-related-works-"
+abstract: >-
+  A fully reproducible, pure-Python benchmark of multi-environment
+  genomic-prediction models (single-environment GBLUP, naive mean,
+  reaction-norm, factor-analytic, and multi-trait GBLUP) across a controlled
+  GxE gradient, validated on the public CIMMYT wheat panel (Crossa et al. 2010,
+  Genetics 186:713-724). Includes the forward population + GxE simulator, the
+  analysis pipeline, all results, figures, and a submission-ready manuscript.
